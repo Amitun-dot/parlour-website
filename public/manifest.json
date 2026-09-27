@@ -1,0 +1,16 @@
+{
+"name": "Puja Makeovers & Spa",
+"short_name": "Puja Makeovers",
+"description": "Premium bridal makeup, hair, skin & beauty services",
+"start_url": "/",
+"display": "standalone",
+"background_color": "#f5f0e8",
+"theme_color": "#b8654a",
+"icons": [
+{
+"src": "/images/puja-makeovers-logo.png",
+"sizes": "any",
+"type": "image/png"
+}
+]
+}
