@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pujamakeovers.com/sitemap.xml
+Sitemap: https://pujamakeovers.vercel.app/sitemap.xml
